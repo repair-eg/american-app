@@ -1,0 +1,19 @@
+{
+  "id": "./index.html",
+  "name": "أمريكان جروب للصيانة",
+  "short_name": "أمريكان جروب",
+  "description": "تطبيق أمريكان جروب لصيانة الأجهزة المنزلية وحجز الصيانة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#b71925",
+  "theme_color": "#b71925",
+  "icons": [
+    {"src": "icons/app-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/app-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
